@@ -1,3 +1,4 @@
+.*.json
 
 .vscode/
 
@@ -6,3 +7,6 @@
 output.csv
 
 rapport.html
+rapport_obsolescence.html
+test.py
+.example.html
